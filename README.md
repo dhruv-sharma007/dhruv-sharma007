@@ -50,7 +50,7 @@
 ![Hostinger](https://img.shields.io/badge/Hostinger-FF5722?style=for-the-badge&logo=hostinger&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-## 🌐 Connect with me
+##🌐Connect with me
 
 <div align='center'>
 
