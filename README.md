@@ -24,10 +24,11 @@
     </summary>
     
   - 🛠️ Building Projects:
-    - Building a unique chat.
+    - Building a youtube cone and study management system for college.
     - Designing a portfolio website to showcase my work.
   - 🌱 Learning: Advanced React and Node.js.
   - 🔍 Exploring: New Technology and Cyber Security.
+  - 💻 Goal to become master in backend and devOps
   </details>
 
 <div align='center'>
