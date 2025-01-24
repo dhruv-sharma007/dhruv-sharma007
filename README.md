@@ -35,7 +35,7 @@
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-sharma007&show_icons=true&theme=gotham&bg_color=00000000&rank_icon=github&hide_border=true&custom_title=Dhruv's+Github+Stats)](https://github.com/dhruv-sharma007/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-sharma007&layout=donut&theme=gotham&bg_color=00000000&hide_border=true)](https://github.com/dhruv-sharma007/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-sharma007&theme=gotham&hide_border=true&background=FFFFFF00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-sharma007&theme=gotham&hide_border=true&background=0D1117&ring=2AA889&fire=2AA889&currStreakLabel=2AA889)](https://git.io/streak-stats)
 
 </div>
 
