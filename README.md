@@ -1,45 +1,45 @@
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2aa889&random=false&width=535&lines=%E2%9C%A8+Namaste%2C+Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2aa889&width=535&lines=%E2%9C%A8+Namaste%2C+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-### Hi there I'm Dhruv 👋
+### Hi there, I'm Dhruv 👋
 
 - I'm passionate about building scalable technologies, exploring open source, and sharpening my development skills. 🚀
 - Pursuing Bachelor of Computer Applications (BCA) from MGSU, Bikaner, Rajasthan, India.
+
 <details>
   <summary>
     <strong>🚀 My Goals</strong>
   </summary>
-    
+  
   - 💻 Master the MERN Stack (MongoDB, Express.js, React.js, Node.js).
-  - 📚 Learn web3 after Mern Stack.
+  - 📚 Learn web3 after mastering the MERN Stack.
   - 🎯 Build impactful personal projects that solve real-world problems.
-  - 🌟 Build and deploy a Saas porduct.
-  </details>
-
+  - 🌟 Develop and deploy a SaaS product.
+</details>
 
 <details>
-    <summary>
-      <strong>🛠️ Current Focus</strong>
-    </summary>
-    
+  <summary>
+    <strong>🛠️ Current Focus</strong>
+  </summary>
+  
   - 🛠️ Building Projects:
-    - Building a youtube cone and study management system for college.
+    - Creating a YouTube clone and a study management system for my college.
     - Designing a portfolio website to showcase my work.
   - 🌱 Learning: Advanced React and Node.js.
-  - 🔍 Exploring: New Technology and Cyber Security.
-  - 💻 Goal to become master in backend and devOps
-  </details>
+  - 🔍 Exploring: New technologies and Cyber Security.
+  - 💻 Goal: To become a master in backend development and DevOps.
+</details>
 
 <div align='center'>
 
-[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-sharma007&show_icons=true&theme=gotham&bg_color=00000000&rank_icon=github&hide_border=true&custom_title=Dhruv's+Github+Stats)](https://github.com/dhruv-sharma007/github-readme-stats)
+[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-sharma007&show_icons=true&theme=gotham&bg_color=00000000&rank_icon=github&hide_border=true&custom_title=Dhruv's+GitHub+Stats)](https://github.com/dhruv-sharma007/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-sharma007&layout=donut&theme=gotham&bg_color=00000000&hide_border=true)](https://github.com/dhruv-sharma007/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-sharma007&theme=gotham&hide_border=true&background=0D1117&ring=2AA889&fire=2AA889&currStreakLabel=2AA889)](https://git.io/streak-stats)
 
 </div>
 
-### 💻 Tech I know ....
+### 💻 Tech I Know ...
 
 <div align='center'>
 
@@ -50,10 +50,11 @@
 ![Hostinger](https://img.shields.io/badge/Hostinger-FF5722?style=for-the-badge&logo=hostinger&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-<h2> 🌐 Connect with me</h2>
+
+<h2 align='center'> 🌐 Connect with me </h2>
 
 <div align='center'>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-sharma-07a198330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/Dhruv182007)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvs19125@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-sharma-07a198330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/Dhruv182007) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvs19125@gmail.com)
 
 </div>
