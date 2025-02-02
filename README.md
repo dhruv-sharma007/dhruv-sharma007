@@ -78,8 +78,8 @@ Here are some projects I'm proud of:
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/dhruv-sharma007/GymFluence">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=GymFluence&theme=nightowl&show_owner=true" />
+      <a href="https://github.com/dhruv-sharma007/grom-utils">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=grom-utils&theme=nightowl&show_owner=true" />
       </a>
     </td>
     <td width="50%">
@@ -123,4 +123,4 @@ Here are some projects I'm proud of:
   <a href="mailto:dhruvs19125@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p> 
+</p>
