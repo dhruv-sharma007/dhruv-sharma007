@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="https://github.com/dhruv-sharma007">
-    <img width="auto" src="https://github-readme-stats.vercel.app/api?username=dhruv-sharma007&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&hide_title=true" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api?username=dhruv-sharma007&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&hide_title=true" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-sharma007&theme=nightowl&hide_border=true&background=00000000" />
   </a>
 </p>
