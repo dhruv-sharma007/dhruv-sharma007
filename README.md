@@ -81,11 +81,7 @@
 ---
 
 </p>
-<p align="center">
-  <a href="https://github.com/dhruv-sharma007">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-sharma007&layout=donut&theme=gotham&bg_color=00000000&hide_border=true" />
-  </a>
-</p>
+
 
 ---
 
