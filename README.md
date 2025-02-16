@@ -78,8 +78,8 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)  
 ![Warp](https://img.shields.io/badge/Warp-0E1013?style=flat&logo=warp&logoColor=white)
 
----
 
+<!-- 
 <p align="center">
   <a href="https://github.com/dhruv-sharma007">
     <img width="41%" src="https://github-readme-stats.vercel.app/api?username=dhruv-??sharma007&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&hide_title=true" />
@@ -87,16 +87,17 @@
   </a>
 
 ---
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/dhruv-sharma007">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-sharma007&layout=donut&theme=gotham&bg_color=00000000&hide_border=true" />
   </a>
-</p> -->
+</p> 
 
+-->
+---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-sharma007&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=4F46E5" width="80%" />
 </p>
-
 ---
 
 ### 🌟 Featured Projects
