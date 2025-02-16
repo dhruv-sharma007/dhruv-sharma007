@@ -6,9 +6,9 @@
 
 🎓 Pursuing **BCA** @ MGSU, Bikaner  
 💻 Passionate about full-stack development & open source  
-🚀 Building scalable solutions and SaaS products  
-🌱 Currently mastering **MERN Stack** & exploring **DevOps**  
-🔭 Working on YouTube clone & college management system  
+🚀 Building unique projects  
+🌱 Currently mastering **Backend** & exploring **DevOps**  
+🔭 Working on **Knowvio** platform for building bots
 
 ---
 
