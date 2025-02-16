@@ -98,6 +98,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-sharma007&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=4F46E5" width="80%" />
 </p>
+
 ---
 
 ### 🌟 Featured Projects
