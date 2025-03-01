@@ -8,7 +8,6 @@
 💻 Passionate about full-stack development & open source  
 🚀 Building unique projects  
 🌱 Currently mastering **Backend** & exploring **DevOps**  
-🔭 Working on **Knowvio** platform for building bots
 
 ---
 
@@ -30,9 +29,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=flat&logo=ejs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 #### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
