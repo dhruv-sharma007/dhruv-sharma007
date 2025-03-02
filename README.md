@@ -6,7 +6,6 @@
 
 🎓 Pursuing **BCA** @ MGSU, Bikaner  
 💻 Passionate about full-stack development & open source  
-🚀 Building unique projects  
 🌱 Currently mastering **Backend** & exploring **DevOps**  
 
 ---
