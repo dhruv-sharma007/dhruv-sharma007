@@ -88,8 +88,6 @@
 
 ### 🌟 Featured Projects
 
-Here are some projects I'm proud of:
-
 <table>
   <tr>
     <td width="50%">
