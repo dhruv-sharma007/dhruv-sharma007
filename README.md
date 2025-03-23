@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack ( **Learning** )
+### 🛠️ Tech Stack 
 
 #### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -66,6 +66,19 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)  
+
+## What i am currently doing?
+- Mastering some technologies ***NextJs*** ***Typescript*** ***React*** 
+- Building **devpe** ( phonepe clone but mini version )
+- ***DSA*** in ***JAVA*** 
+## Future plan
+- Deep dive into backend with core **Nodejs**
+- Try some other technology like **GO** **JAVA SPRING/SPRINGBOOT**
+
+## My Gears
+- laptop <a href="https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X1_Carbon_3rd_Gen.pdf">**Thinkpad**</a>
+- Earbuds <a href="https://www.boat-lifestyle.com/products/airdopes-supreme-long-playback-earbuds?variant=40840118468706&country=IN&currency=INR&gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm32ptT_XUYM0Uai4AXuTRq7tC_qjFsYkHmBaCOpzsKV9FTjltNNn7H4aAhXOEALw_wcB">**Airdopes Supreme**</a>
+- Mouse <a href="https://url9-qkab.onrender.com/url/cpDA3">**Transformer**</a>
 
 <!-- 
 <p align="center">
