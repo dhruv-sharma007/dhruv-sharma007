@@ -68,12 +68,12 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)  
 
 ## What i am currently doing?
-- Mastering some technologies ***NextJs*** ***Typescript*** ***React*** 
 - Building **devpe** ( phonepe clone but mini version )
 - ***DSA*** in ***JAVA*** 
+- Learning core **Nodejs**
 ## Future plan
-- Deep dive into backend with core **Nodejs**
 - Try some other technology like **GO** **JAVA SPRING/SPRINGBOOT**
+- Build something amazing
 
 ## My Gears
 - laptop <a href="https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X1_Carbon_3rd_Gen.pdf">**Thinkpad**</a>
