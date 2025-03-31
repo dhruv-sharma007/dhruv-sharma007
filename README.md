@@ -71,8 +71,9 @@
 - Building **devpe** ( phonepe clone but mini version )
 - ***DSA*** in ***JAVA*** 
 - Learning core **Nodejs**
+- Playing with **GO Lang**
 ## Future plan
-- Try some other technology like **GO** **JAVA SPRING/SPRINGBOOT**
+- Try some other technology **JAVA SPRING/SPRINGBOOT**
 - Build something amazing
 
 ## My Gears
