@@ -21,8 +21,7 @@
 
 
 #### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=flat&logo=ejs&logoColor=white)
@@ -68,7 +67,6 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)  
 
 ## What i am currently doing?
-- Building **devpe** ( phonepe clone but mini version )
 - ***DSA*** in ***JAVA*** 
 - Learning core **Nodejs**
 - Playing with **GO Lang**
