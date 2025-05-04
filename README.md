@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=4000&pause=500&color=4F46E5&center=true&vCenter=true&width=500&lines=Namaste%2C+Welcome!;Exploring+Tech+World;Backnd-Development+Enthusiast;Continuous+Learner" alt="Typing Animation" />
+  <img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif"/>
 </h1>
 
 ### 👨💻 About Me
