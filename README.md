@@ -1,6 +1,5 @@
-<h1 align="center">
-  ![Banner](https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif)
-</h1>
+![Banner](https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif)
+
 
 ### 👨💻 About Me
 
