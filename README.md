@@ -1,117 +1,39 @@
-![Banner](https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif)
+![Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
 
 
 ### 👨💻 About Me
 
 🎓 Pursuing **BCA** @ MGSU, Bikaner  
 💻 Passionate about full-stack development  
-🌱 Currently mastering **Backend** with **NodeJs** & exploring **Tech**  
-
----
+🌱 Currently learning **Backend** with **NodeJs**,**GoLang** & exploring **Tech**  
 
 ### 🛠️ Tech Stack 
-
-#### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-
-#### **Frontend Development**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=flat&logo=ejs&logoColor=white)
-
-#### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDb-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-
-#### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-#### **Hosting Platform**
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-FF5722?style=flat&logo=hostinger&logoColor=white)
-
-#### **Version Control Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-#### **OS**
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
-#### **Other Tools & Platforms**
-![eraser.io](https://img.shields.io/badge/eraser.io-000000?style=flat&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)  
-
-## What i am currently doing?
-- ***DSA*** in ***JAVA*** 
-- Learning core **Nodejs**
-- Playing with **GO Lang**
-## Future plan
-- Try some other technology **JAVA SPRING/SPRINGBOOT**
-- Build something amazing
-
-## My Gears
-- laptop <a href="https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X1_Carbon_3rd_Gen.pdf">**Thinkpad**</a>
-- Earbuds <a href="https://www.boat-lifestyle.com/products/airdopes-supreme-long-playback-earbuds?variant=40840118468706&country=IN&currency=INR&gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm32ptT_XUYM0Uai4AXuTRq7tC_qjFsYkHmBaCOpzsKV9FTjltNNn7H4aAhXOEALw_wcB">**Airdopes Supreme**</a>
-- Mouse <a href="https://url9-qkab.onrender.com/url/cpDA3">**Transformer**</a>
-
-<!-- 
-<p align="center">
-  <a href="https://github.com/dhruv-sharma007">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api?username=dhruv-??sharma007&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&hide_title=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-sharma007&theme=nightowl&hide_border=true&background=00000000" />
-  </a>
-
----
-<p align="center">
-  <a href="https://github.com/dhruv-sharma007">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-sharma007&layout=donut&theme=gotham&bg_color=00000000&hide_border=true" />
-  </a>
-</p> 
-
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-sharma007&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=4F46E5" width="80%" />
-</p>
--->
-
----
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,go,html,css,react,tailwind,nodejs,express,mongodb,redis,npm,bun,git,github,docker,aws,postman,linux,neovim,webstorm,vscode)](https://skillicons.dev)
 
 ### 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/dhruv-sharma007/grom-utils">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=grom-utils&theme=nightowl&show_owner=true" />
+      <a href="https://github.com/dhruv-sharma007/Ecommerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=Ecommerce&theme=nightowl&show_owner=true" />
       </a>
     </td>
     <td width="50%">
+      <a href="https://github.com/dhruv-sharma007/knowviofit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=knowviofit&theme=nightowl&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <a href="https://github.com/dhruv-sharma007/oneBLOG">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=oneBLOG&theme=nightowl&show_owner=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/dhruv-sharma007/url-shortner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=url-shortner&theme=nightowl&show_owner=true" />
       </a>
     </td>
   </tr>
@@ -122,8 +44,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/dhruv-sharma007/url-shortner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=url-shortner&theme=nightowl&show_owner=true" />
+      <a href="https://github.com/dhruv-sharma007/grom-utils">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=grom-utils&theme=nightowl&show_owner=true" />
       </a>
     </td>
   </tr>
