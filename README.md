@@ -27,8 +27,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/dhruv-sharma007/oneBLOG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=oneBLOG&theme=nightowl&show_owner=true" />
+      <a href="https://github.com/dhruv-sharma007/myBlogs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=myBlogs&theme=nightowl&show_owner=true" />
       </a>
     </td>
     <td width="50%">
