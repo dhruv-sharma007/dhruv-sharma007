@@ -32,8 +32,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/dhruv-sharma007/url-shortner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=url-shortner&theme=nightowl&show_owner=true" />
+      <a href="https://github.com/dhruv-sharma007/Short-Url-nodeJS>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv-sharma007&repo=Short-Url-nodeJS&theme=nightowl&show_owner=true" />
       </a>
     </td>
   </tr>
