@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,go,html,css,astro,react,tailwind,nodejs,express,mongodb,redis,npm,bun,git,github,aws,postman,linux,neovim,webstorm,pycharm,vscode)](https://skillicons.dev)
 
 ### 🌟 Featured Projects
-
+ 
 <table>
   <tr>
     <td width="50%">
