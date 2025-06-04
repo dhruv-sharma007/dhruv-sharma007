@@ -8,7 +8,7 @@
 🌱 Currently learning **Backend** with **NodeJs**,**GoLang** & exploring **Tech**    
 
 ### 🛠️ Tech Stack ( Learning )
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,go,html,css,astro,react,tailwind,nodejs,express,prisma,mysql,postgresql,mongodb,redis,npm,bun,git,github,aws,postman,linux,neovim,webstorm,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,go,html,css,astro,react,tailwind,nodejs,express,prisma,mysql,postgresql,mongodb,redis,npm,bun,git,github,aws,nginx,linux,postman,neovim,webstorm,pycharm,vscode)](https://skillicons.dev)
 
 ### 🌟 Featured Projects
  
