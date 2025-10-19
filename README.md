@@ -7,4 +7,4 @@
 💻 Passionate about backend development and computer science.  
 🌱 Currently learning **Backend** in **NestJs** & exploring **Tech**    
 ### 🛠️ Tech Stack ( Learning )
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,tailwind,react,nodejs,express,prisma,postgresql,mongodb,redis,npm,bun,git,github,nginx,linux)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,tailwind,react,nodejs,express,prisma,postgresql,mongodb,redis,npm,bun,git,github,nginx,linux)](https://skillicons.dev) 
