@@ -3,7 +3,7 @@
 
 ### 👨💻 About Me
 
-🎓 Pursuing **BCA** @ MGSU, Bikaner  
+🎓 **BCA** @ MGSU, Bikaner  
 💻 Passionate about backend development and computer science.  
 🌱 Currently learning **Backend** in **NestJs** & exploring **Tech**    
 ### 🛠️ Tech Stack ( Learning )
