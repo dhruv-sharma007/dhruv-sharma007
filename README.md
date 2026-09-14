@@ -3,8 +3,8 @@
 
 ### 👨💻 About Me
 
-🎓 **BCA** @ MGSU, Bikaner  
-💻 Passionate about backend development and computer science.  
-🌱 Currently learning **Backend** in **NestJs** & exploring **Tech**    
+🎓 **BCA** @ MGSU, Bikaner
+💻 Passionate about backend development and computer science.
+🌱 Currently sharping skills in **Backend** **Real World Applications**
 ### 🛠️ Tech Stack ( Learning )
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,spring,nodejs,express,prisma,postgresql,mongodb,redis,npm,bun,git,github,nginx,linux)](https://skillicons.dev) 
